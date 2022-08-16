@@ -15,7 +15,7 @@
 	  <Copyright>2022 Ramon Ordiales</Copyright>
 	  <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
 	  <RepositoryUrl>https://api.nuget.org/v3/index.json</RepositoryUrl>
-	  <PackageProjectUrl>https://github.com/ramoneeza/Rop.ProxyGenerator</PackageProjectUrl>
+	  <PackageProjectUrl>https://github.com/ramoneeza/Rop.LazyAsync</PackageProjectUrl>
 	  <PackageReadmeFile>Readme.md</PackageReadmeFile>
 	  <PackageId>Rop.LazyAsync</PackageId>
   </PropertyGroup>
